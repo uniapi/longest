@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/SergeyKovalchuk/longest-consecutive-sequence/issues"
   },
-  "devDependencies": {
-    "mocha": "^3.2.0"
-  },
-  "homepage": "https://github.com/SergeyKovalchuk/longest-consecutive-sequence#readme"
+  "homepage": "https://github.com/SergeyKovalchuk/longest-consecutive-sequence#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
